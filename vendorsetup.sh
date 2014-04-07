@@ -1,0 +1,2 @@
+add_lunch_combo cm_delos3geur-eng
+add_lunch_combo cm_delos3geur-userdebug
