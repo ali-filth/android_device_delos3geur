@@ -150,7 +150,7 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 5573804032
 
 # SELinux
 BOARD_SEPOLICY_DIRS += \
-    device/samsung/arubaslim/sepolicy
+    device/samsung/delos3geur/sepolicy
 
 BOARD_SEPOLICY_UNION += \
     file_contexts \
